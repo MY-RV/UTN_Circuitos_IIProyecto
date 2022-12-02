@@ -1,0 +1,292 @@
+[
+    {
+        "device": "N/A",
+        "detail": "Lorem ipsu simple text of the printing",
+        "created_at": "2022/11/24"
+    },
+    {
+        "device": "N/A",
+        "detail": "IDK what to write",
+        "created_at": "2022/11/10"
+    },
+    {
+        "device": "N/A",
+        "detail": "Lorem ipsu simple Number 2 text of the printing",
+        "created_at": "2022/11/15"
+    },
+    {
+        "device": "LCD",
+        "detail": "IDK",
+        "description": "Some one opened the dor",
+        "created_at": "2022/10/26"
+    },
+    {
+        "device": "LCD",
+        "detail": "IDK",
+        "description": "Some one opened the dor",
+        "created_at": "2022/10/27"
+    },
+    {
+        "device": "LCD",
+        "detail": "IDK",
+        "description": "Some one opened the dor",
+        "created_at": "2022/10/27"
+    },
+    {
+        "device": "LCD",
+        "detail": "IDK",
+        "description": "Some one opened the dor",
+        "created_at": "2022/10/27"
+    },
+    {
+        "device": "LCD",
+        "detail": "IDK",
+        "description": "Some one opened the dor",
+        "created_at": "2022/10/27 13:39:7"
+    },
+    {
+        "device": "LCD",
+        "detail": "IDK",
+        "description": "Some one opened the dor",
+        "created_at": "2022/10/27 13:43:22"
+    },
+    {
+        "device": "LCD",
+        "detail": "IDK",
+        "description": "Some one opened the dor",
+        "created_at": "2022/10/27 13:43:53"
+    },
+    {
+        "device": "LCD",
+        "detail": "IDK",
+        "description": "Some one opened the dor",
+        "created_at": "2022/10/27 13:44:43"
+    },
+    {
+        "device": "LCD",
+        "detail": "IDK",
+        "description": "Some one opened the dor",
+        "created_at": "2022/10/27 18:26:55"
+    },
+    {
+        "device": "Arduino 3",
+        "detail": "Action perfomed",
+        "description": "change detected by \"Arduino 3\"",
+        "created_at": "2022/10/27 19:43:27"
+    },
+    {
+        "device": "Arduino 3",
+        "detail": "Action perfomed",
+        "description": "change detected by \"undefined\"",
+        "created_at": "2022/10/27 19:44:33"
+    },
+    {
+        "device": "Arduino 3",
+        "detail": "Action perfomed",
+        "description": "change detected by \"undefined\"",
+        "created_at": "2022/10/27 19:44:57"
+    },
+    {
+        "device": "Arduino 3",
+        "sensor": "null",
+        "detail": "Action perfomed",
+        "description": "change detected by \"null\"",
+        "created_at": "2022/10/27 19:46:32"
+    },
+    {
+        "device": "Arduino 3",
+        "sensor": "Kitchen Door",
+        "detail": "Action perfomed",
+        "description": "change detected by \"Kitchen Door\"",
+        "created_at": "2022/10/27 19:47:34"
+    },
+    {
+        "device": "Arduino 3",
+        "sensor": "Kitchen Door",
+        "detail": "Action perfomed",
+        "description": "Change detected by \"Kitchen Door\"",
+        "created_at": "2022/10/27 19:50:33"
+    },
+    {
+        "device": "Arduino 3",
+        "sensor": "Kitchen",
+        "detail": "Action perfomed",
+        "description": "Smoke detected by \"Kitchen\"",
+        "created_at": "2022/10/27 19:50:38"
+    },
+    {
+        "device": "Arduino 3",
+        "sensor": "Kitchen",
+        "detail": "Action perfomed",
+        "description": "Smoke detected by \"Kitchen\"",
+        "created_at": "2022/10/27 19:51:58"
+    },
+    {
+        "device": "Arduino 3",
+        "sensor": "Room Sensor",
+        "detail": "Action perfomed",
+        "description": "Movement detected by \"Room Sensor\"",
+        "created_at": "2022/10/27 19:54:06"
+    },
+    {
+        "device": "Arduino 3",
+        "sensor": "Room Sensor",
+        "detail": "Action perfomed",
+        "description": "Movement detected by \"Room Sensor\"",
+        "created_at": "2022/10/27 19:58:25"
+    },
+    {
+        "device": "Arduino 3",
+        "sensor": "Room Sensor",
+        "detail": "Action perfomed",
+        "description": "Movement detected by \"Room Sensor\"",
+        "created_at": "2022/10/27 19:59:25"
+    },
+    {
+        "device": "Arduino 3",
+        "sensor": "Room Sensor",
+        "detail": "Action perfomed",
+        "description": "Movement detected by \"Room Sensor\"",
+        "created_at": "2022/10/27 22:51:42"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen Door",
+        "detail": "close",
+        "description": "Change detected by \"Kitchen Door\"",
+        "created_at": "2022/10/30 23:43:53"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen Door",
+        "detail": "open",
+        "description": "Change detected by \"Kitchen Door\"",
+        "created_at": "2022/10/30 23:43:53"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen Door",
+        "detail": "close",
+        "description": "Change detected by \"Kitchen Door\"",
+        "created_at": "2022/10/30 23:45:50"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen",
+        "detail": "close",
+        "description": "Smoke detected by \"Kitchen\"",
+        "created_at": "2022/10/30 23:48:19"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen",
+        "detail": "open",
+        "description": "Smoke detected by \"Kitchen\"",
+        "created_at": "2022/10/30 23:48:23"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen",
+        "detail": "close",
+        "description": "Smoke detected by \"Kitchen\"",
+        "created_at": "2022/11/01 01:11:31"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen",
+        "detail": "open",
+        "description": "Smoke detected by \"Kitchen\"",
+        "created_at": "2022/11/01 01:11:36"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen Door",
+        "detail": "open",
+        "description": "Change detected by \"Kitchen Door\"",
+        "created_at": "2022/11/01 01:14:15"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen Door",
+        "detail": "close",
+        "description": "Change detected by \"Kitchen Door\"",
+        "created_at": "2022/11/01 01:15:08"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Living Room",
+        "detail": "close",
+        "description": "Movement detected by \"Living Room\"",
+        "created_at": "2022/11/01 01:15:45"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Living Room",
+        "detail": "open",
+        "description": "Movement detected by \"Living Room\"",
+        "created_at": "2022/11/01 01:15:54"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Living Room",
+        "detail": "close",
+        "description": "Movement detected by \"Living Room\"",
+        "created_at": "2022/11/01 01:15:56"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Living Room",
+        "detail": "open",
+        "description": "Movement detected by \"Living Room\"",
+        "created_at": "2022/11/01 01:16:04"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Living Room",
+        "detail": "close",
+        "description": "Movement detected by \"Living Room\"",
+        "created_at": "2022/11/01 01:16:06"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Living Room",
+        "detail": "open",
+        "description": "Movement detected by \"Living Room\"",
+        "created_at": "2022/11/01 01:16:15"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Living Room",
+        "detail": "close",
+        "description": "Movement detected by \"Living Room\"",
+        "created_at": "2022/11/01 01:16:18"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Living Room",
+        "detail": "open",
+        "description": "Movement detected by \"Living Room\"",
+        "created_at": "2022/11/01 01:16:26"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen Door",
+        "detail": "open",
+        "description": "Change detected by \"Kitchen Door\"",
+        "created_at": "2022/11/01 01:19:39"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen Door",
+        "detail": "close",
+        "description": "Change detected by \"Kitchen Door\"",
+        "created_at": "2022/11/01 01:25:09"
+    },
+    {
+        "device": "arduino uno ",
+        "sensor": "Kitchen Door",
+        "detail": "open",
+        "description": "Change detected by \"Kitchen Door\"",
+        "created_at": "2022/11/01 01:25:10"
+    }
+]

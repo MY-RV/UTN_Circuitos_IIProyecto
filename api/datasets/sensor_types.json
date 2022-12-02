@@ -1,0 +1,5 @@
+{
+    "magnetic": "Change detected by \"${}\"",
+    "movement": "Movement detected by \"${}\"",
+    "smoke": "Smoke detected by \"${}\""
+}

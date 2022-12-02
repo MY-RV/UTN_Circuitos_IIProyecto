@@ -1,0 +1,14 @@
+{
+    "s1": {
+        "name": "Kitchen Door",
+        "type": "magnetic"
+    },
+    "s2": {
+        "name": "Living Room",
+        "type": "movement"
+    },
+    "s3": {
+        "name": "Kitchen",
+        "type": "smoke"
+    }
+}
